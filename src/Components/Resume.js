@@ -1,3 +1,4 @@
+
 import React, { Component } from "react";
 import Slide from "react-reveal";
 
@@ -56,6 +57,7 @@ class Resume extends Component {
 
     return (
       <section id="resume">
+
         <Slide left duration={1300}>
           <div className="row education">
             <div className="three columns header-col">

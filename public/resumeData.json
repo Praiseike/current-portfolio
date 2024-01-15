@@ -1,8 +1,8 @@
 {
   "main": {
     "name":"Full-Stack Developer",
-    "description":"Full Stack Alchemist: Building Tomorrow's Digital Landscape with Precision and Innovation",
-    "image":"profilepic.jpg",
+    "description":"Hello, I'm Ibangha Ike, a Full Stack Alchemist: Building Tomorrow's Digital Landscape with Precision and Innovation",
+    "image":"profile.png",
     "bio":"Hello! I'm Ibangha Ike, a dedicated and creative Full Stack Developer on a mission to bring ideas to life through elegant and efficient code. With a foundation in React, TailwindCSS, PHP/Laravel, NodeJS/Express, and a flair for design, I thrive in turning concepts into seamless digital experiences. Let's build something extraordinary together!",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "praiseike@gmail.com",
@@ -16,32 +16,22 @@
       "zip": "520101"
     },
     "website": "https://ibangha-ike.netlify.app",
-    "resumedownload":"",
+    "resumedownload":"resume.pdf",
     "social":[
-      {
-        "name":"facebook",
-        "url":"https://github.com/praiseike",
-        "className":"fa fa-facebook"
-      },
-      {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
-        "className":"fa fa-linkedin"
-      },
-      {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
-      },
       {
         "name":"github",
         "url":"https://github.com/praiseike",
         "className":"fa fa-github"
+      },
+      {
+        "name":"Stack Overflow",
+        "url":"https://stackoverflow.com/users/12638319/praise-ike",
+        "className":"fa fa-stack-overflow"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com/praise89897389",
+        "className":"fa fa-twitter"
       }
     ]
   },
@@ -129,6 +119,18 @@
         "title":"Format Store",
         "category":"ECommerce",
         "image":"03.png",
+        "url":"https://teal-cannoli-6e95bf.netlify.app/"
+      },
+      {
+        "title":"Gallery",
+        "category":"Photos",
+        "image":"05.png",
+        "url":"https://teal-cannoli-6e95bf.netlify.app/"
+      },
+      {
+        "title":"PFM.Company",
+        "category":"Photos",
+        "image":"06.png",
         "url":"https://teal-cannoli-6e95bf.netlify.app/"
       },
       {

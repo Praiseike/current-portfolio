@@ -1,3 +1,4 @@
+import ParticlesBg from "particles-bg";
 import React, { Component } from "react";
 import Fade from "react-reveal";
 
@@ -7,7 +8,7 @@ class About extends Component {
 
     const name = this.props.data.name;
     const profilepic = "images/" + this.props.data.image;
-    const bio = this.props.data.bio;
+    // const bio = this.props.data.bio;
     const street = this.props.data.address.street;
     const city = this.props.data.address.city;
     const state = this.props.data.address.state;
@@ -18,6 +19,10 @@ class About extends Component {
 
     return (
       <section id="about">
+        <ParticlesBg type="cobweb" num={20} color="#515151"  bg={{
+          position: 'absolute',
+          height: '48rem'
+        }} />
         <Fade duration={1000}>
           <div className="row">
             <div className="three columns">
@@ -30,7 +35,9 @@ class About extends Component {
             <div className="nine columns main-col">
               <h2>About Me</h2>
 
-              <p>{bio}</p>
+              <p>
+                Hello! I'm <span style={{color:"#11ABB0"}}>Ibangha Ike</span>, a dedicated and creative Full Stack Developer on a mission to bring ideas to life through elegant and efficient code. With a foundation in <span style={{color:"#11ABB0"}}>React</span>, <span style={{color:"#11ABB0"}}>TailwindCSS</span>, <span style={{color:"#11ABB0"}}>PHP/Laravel</span>, <span style={{color:"#11ABB0"}}>NodeJS/Express</span>, and a flair for design, I thrive in turning concepts into seamless digital experiences. Let's build something extraordinary together!
+              </p>
               <div className="row">
                 <div className="columns contact-details">
                   <h2>Contact Details</h2>
@@ -50,7 +57,7 @@ class About extends Component {
                 </div>
                 <div className="columns download">
                   <p>
-                    <a href={resumeDownload} className="button">
+                    <a href={resumeDownload} download className="button">
                       <i className="fa fa-download"></i>Download Resume
                     </a>
                   </p>

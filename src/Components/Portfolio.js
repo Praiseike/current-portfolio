@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import Zmage from "react-zmage";
 import Fade from "react-reveal";
+import ParticlesBg from "particles-bg";
 
 let id = 0;
 class Portfolio extends Component {
@@ -22,6 +23,7 @@ class Portfolio extends Component {
 
     return (
       <section id="portfolio">
+
         <Fade left duration={1000} distance="40px">
           <div className="row">
             <div className="twelve columns collapsed">
