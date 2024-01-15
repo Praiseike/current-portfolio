@@ -1,0 +1,142 @@
+{
+  "main": {
+    "name":"Full-Stack Developer",
+    "description":"Full Stack Alchemist: Building Tomorrow's Digital Landscape with Precision and Innovation",
+    "image":"profilepic.jpg",
+    "bio":"Hello! I'm Ibangha Ike, a dedicated and creative Full Stack Developer on a mission to bring ideas to life through elegant and efficient code. With a foundation in React, TailwindCSS, PHP/Laravel, NodeJS/Express, and a flair for design, I thrive in turning concepts into seamless digital experiences. Let's build something extraordinary together!",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "praiseike@gmail.com",
+    "phone": "+234 803 233 4874",
+    "github":"https://github.com/praiseike",
+    "project":"https://github.com/praiseike",
+    "address":{
+      "street":"Nwaniba rd, uyo",
+      "city":"Uyo",
+      "state":"Akwa Ibom",
+      "zip": "520101"
+    },
+    "website": "https://ibangha-ike.netlify.app",
+    "resumedownload":"",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://github.com/praiseike",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/tbaker_x",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/praiseike",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here are some of the skills I have aquired throughout my development career.",
+    "education":[
+      {
+        "school":"University of Uyo",
+        "degree":"Computer Enginering",
+        "graduated":"Sept. 2018 - present",
+        "description":"Throughout my academic journey in Computer Engineering at the University of Uyo, I've gained a comprehensive understanding of both hardware and software aspects of computing. I've delved into subjects like digital logic design, computer architecture, algorithms, data structures, and operating systems, equipping me with the knowledge to analyze and design complex systems."
+      }
+    ],
+    "work":[
+      {
+        "company":"PFM.Company",
+        "title":"Full-Stack Developer",
+        "years":"November 2023 - January 2024",
+        "description":"At PFM.Company, I seamlessly integrated Bootstrap with Laravel to develop visually appealing and responsive web applications. Leveraging Bootstrap's extensive front-end components, I crafted intuitive user interfaces that provided an exceptional user experience across various devices. Working within the Laravel framework, I implemented robust backend functionalities, ensuring the seamless flow of data and interactions. My responsibilities included designing and developing features, handling data validation, and optimizing performance for optimal user engagement."
+      },
+      {
+        "company":"SOFROSYN LLC",
+        "title":"Front-End Developer",
+        "years":"September 2023 - Januaray 2024",
+        "description":"At Sofrosyn, I developed reliable and responsive company dashboard application using React, from design to implementation."
+      },
+      {
+        "company":"Praxeum AI",
+        "title":"Front-End Developer ",
+        "years":"May 2023 - November 2023",
+        "description":"At Praxeum AI, I played a key role in developing responsive, scalable, and performance-optimized client-side applications. My focus was on meeting the organization's business needs through effective application design and implementation."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python",
+        "level":"60%"
+      },
+
+      {
+        "name":"ReactJs",
+        "level":"80%"
+      },
+      {
+        "name":"CSS",
+        "level":"100%"
+      },
+      {
+        "name":"PHP",
+        "level":"100%"
+      },
+      {
+        "name":"TailwindCSS",
+        "level":"90%"
+      },
+      {
+        "name":"Javascript",
+        "level":"90%"
+      },
+      {
+        "name":"Laravel",
+        "level":"90%"
+      },
+      {
+        "name":"NodeJS/Express",
+        "level":"70%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Gym Project",
+        "category":"Fitness",
+        "image":"01.png",
+        "url":"https://teal-cannoli-6e95bf.netlify.app/"
+      },
+      {
+        "title":"Phone Store",
+        "category":"Gadgets",
+        "image":"04.png",
+        "url":"https://teal-cannoli-6e95bf.netlify.app/"
+      },
+      {
+        "title":"Format Store",
+        "category":"ECommerce",
+        "image":"03.png",
+        "url":"https://teal-cannoli-6e95bf.netlify.app/"
+      },
+      {
+        "title":"Digi Essentials",
+        "category":"Agency",
+        "image":"02.png",
+        "url":"https://teal-cannoli-6e95bf.netlify.app/"
+      }
+    ]
+  }
+}
