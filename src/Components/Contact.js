@@ -11,7 +11,7 @@ class Contact extends Component {
     const state = this.props.data.address.state;
     const zip = this.props.data.address.zip;
     const phone = this.props.data.phone;
-    const message = this.props.data.contactmessage;
+    // const message = this.props.data.contactmessage;
 
     return (
       <section id="contact">
