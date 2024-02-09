@@ -122,12 +122,18 @@
         "url":"https://phone-store-e67e.onrender.com"
       },
       {
+        "title":"My Geaky Backend Info",
+        "category":"Tech",
+        "image":"08.png",
+        "url":"https://dev.digi-essentials.com"
+      },
+      {
         "title":"Format Store",
         "category":"ECommerce",
         "image":"03.png",
         "url":"https://fmtstore.rf.gd"
       },
-      
+
       {
         "title":"Kenzy Gallery",
         "category":"Images",
