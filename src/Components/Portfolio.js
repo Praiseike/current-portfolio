@@ -10,14 +10,16 @@ class Portfolio extends Component {
       let projectImage = "images/portfolio/" + projects.image;
 
       return (
-        <div key={id++} style={{color: "gray",marginTop:40}} className="">
-            <a key={id++}  style={{color: "gray"}} className="portfolio-item"href={projects.url} rel="noreferrer" target="_blank">
-              <div className="item-wrap">
-                <img alt={projects.title} src={projectImage} />
-                <div style={{ textAlign: "center" }}>{projects.title}</div>
-              </div>
-            </a>
-        </div>
+        <Fade up duration={1000} distance="80px">
+          <div key={id++} style={{color: "gray",marginTop:40}} className="">
+              <a key={id++}  style={{color: "gray"}} className="" href={projects.url} rel="noreferrer" target="_blank">
+                <div className="item-wrap">
+                  <img alt={projects.title} src={projectImage} />
+                  <div style={{ textAlign: "center" }}>{projects.title}</div>
+                </div>
+              </a>
+          </div>
+        </Fade>
       );
     });
 
@@ -29,8 +31,6 @@ class Portfolio extends Component {
     */
     return (
       <section id="portfolio">
-
-        <Fade left duration={1000} distance="40px">
           <div className="row">
             <div className="twelve columns collapsed">
               <h1>Check Out Some of My Works.</h1>
@@ -43,7 +43,6 @@ class Portfolio extends Component {
               </div>
             </div>
           </div>
-        </Fade>
       </section>
     );
   }
