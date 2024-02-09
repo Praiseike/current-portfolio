@@ -104,12 +104,6 @@
   "portfolio":{
     "projects": [
       {
-        "title":"PFM.Company",
-        "category":"Agency",
-        "image":"06.png",
-        "url":"https://privatefanmanagementcompany.com"
-      },
-      {
         "title":"Gym Project",
         "category":"Fitness",
         "image":"01.png",
@@ -119,32 +113,31 @@
         "title":"Phone Store",
         "category":"Gadgets",
         "image":"04.png",
-        "url":"https://phone-store-e67e.onrender.com"
+        "url":"https://teal-cannoli-6e95bf.netlify.app/"
       },
       {
         "title":"Format Store",
         "category":"ECommerce",
         "image":"03.png",
-        "url":"https://fmtstore.rf.gd"
-      },
-      
-      {
-        "title":"Kenzy Gallery",
-        "category":"Images",
-        "image":"07.png",
-        "url":"https://kenzy.netlify.app"
+        "url":"https://teal-cannoli-6e95bf.netlify.app/"
       },
       {
         "title":"Gallery",
         "category":"Photos",
         "image":"05.png",
-        "url":"#"
+        "url":"https://teal-cannoli-6e95bf.netlify.app/"
+      },
+      {
+        "title":"PFM.Company",
+        "category":"Photos",
+        "image":"06.png",
+        "url":"https://teal-cannoli-6e95bf.netlify.app/"
       },
       {
         "title":"Digi Essentials",
         "category":"Agency",
         "image":"02.png",
-        "url":"https://digi-essentials.com/"
+        "url":"https://teal-cannoli-6e95bf.netlify.app/"
       }
     ]
   }
