@@ -16,7 +16,7 @@
       "zip": "520101"
     },
     "website": "https://ibangha-ike.netlify.app",
-    "resumedownload":"resume.pdf",
+    "resumedownload":"https://rxresu.me/praiseike123/praise-ike",
     "social":[
       {
         "name":"github",
@@ -41,11 +41,17 @@
       {
         "school":"University of Uyo",
         "degree":"Computer Enginering",
-        "graduated":"Sept. 2018 - present",
+        "graduated":"Sept. 2018 - 2024",
         "description":"Throughout my academic journey in Computer Engineering at the University of Uyo, I've gained a comprehensive understanding of both hardware and software aspects of computing. I've delved into subjects like digital logic design, computer architecture, algorithms, data structures, and operating systems, equipping me with the knowledge to analyze and design complex systems."
       }
     ],
     "work":[
+      {
+        "company":"Guardup NG",
+        "title":"Snr Backend Developer",
+        "years":"July 2024 - November 2024",
+        "description":"As a Backend Developer at GuardUp, a leading Nigerian security company, I developed and maintained secure, scalable web applications using Laravel. I collaborated with teams to deliver user-friendly solutions, managed databases, integrated APIs, and optimized performance. My work enhanced GuardUp’s digital infrastructure, supporting its mission to provide innovative security services."
+      },
       {
         "company":"PFM.Company",
         "title":"Full-Stack Developer",
@@ -67,10 +73,33 @@
     ],
     "skills":[
       {
+        "name": "AWS",
+        "level": "100%"
+      },
+      {
+        "name": "Azure",
+        "level": "100%"
+      },
+      {
+        "name": "Google Cloud Platform (GCP)",
+        "level": "100%"
+      },
+      {
+        "name": "System Design & Implementation",
+        "level": "100"
+      },
+      {
+        "name":"PHP/Laravel",
+        "level":"100%"
+      },
+      {
+        "name":"NodeJS/Express",
+        "level":"100%"
+      },
+      {
         "name":"Python",
         "level":"60%"
       },
-
       {
         "name":"ReactJs",
         "level":"80%"
@@ -90,19 +119,23 @@
       {
         "name":"Javascript",
         "level":"90%"
-      },
-      {
-        "name":"Laravel",
-        "level":"90%"
-      },
-      {
-        "name":"NodeJS/Express",
-        "level":"70%"
       }
     ]
   },
   "portfolio":{
     "projects": [
+      {
+        "title":"GuardUp NG",
+        "category":"Security",
+        "image":"09.png",
+        "url":"https://guardup.ng"
+      },
+      {
+        "title":"PFM.Company",
+        "category":"Agency",
+        "image":"06.png",
+        "url":"https://privatefanmanagementcompany.com"
+      },
       {
         "title":"Gym Project",
         "category":"Fitness",
@@ -113,31 +146,31 @@
         "title":"Phone Store",
         "category":"Gadgets",
         "image":"04.png",
-        "url":"https://teal-cannoli-6e95bf.netlify.app/"
+        "url":"https://phone-store-e67e.onrender.com"
+      },
+      {
+        "title":"My Geaky Backend Info",
+        "category":"Tech",
+        "image":"08.png",
+        "url":"https://dev.digi-essentials.com"
       },
       {
         "title":"Format Store",
         "category":"ECommerce",
         "image":"03.png",
-        "url":"https://teal-cannoli-6e95bf.netlify.app/"
+        "url":"https://fmtstore.rf.gd"
       },
       {
         "title":"Gallery",
         "category":"Photos",
         "image":"05.png",
-        "url":"https://teal-cannoli-6e95bf.netlify.app/"
-      },
-      {
-        "title":"PFM.Company",
-        "category":"Photos",
-        "image":"06.png",
-        "url":"https://teal-cannoli-6e95bf.netlify.app/"
+        "url":"#"
       },
       {
         "title":"Digi Essentials",
         "category":"Agency",
         "image":"02.png",
-        "url":"https://teal-cannoli-6e95bf.netlify.app/"
+        "url":"https://digi-essentials.com/"
       }
     ]
   }

@@ -1,7 +1,6 @@
 import React, { Component } from "react";
 import ParticlesBg from "particles-bg";
 import Fade from "react-reveal";
-import { data } from "jquery";
 
 class Header extends Component {
   render() {
@@ -11,6 +10,7 @@ class Header extends Component {
     const name = this.props.data.name;
     const description = this.props.data.description;
     const resumelink = this.props.data.resumedownload;
+    
     return (
       <header id="home">
         <ParticlesBg type="square" bg={true} />
@@ -64,7 +64,7 @@ class Header extends Component {
             <hr />
             <Fade bottom duration={2000}>
               <ul className="social">
-                <a download href={resumelink} style={{cursor:"pointer"}} className="button btn project-btn">
+                <a href={resumelink} style={{cursor:"pointer"}} className="button btn project-btn">
                   <i className="fa fa-download"></i>Résumé
                 </a>
                 <a href={github} className="button btn github-btn">

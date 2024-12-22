@@ -41,11 +41,17 @@
       {
         "school":"University of Uyo",
         "degree":"Computer Enginering",
-        "graduated":"Sept. 2018 - present",
+        "graduated":"Sept. 2018 - 2024",
         "description":"Throughout my academic journey in Computer Engineering at the University of Uyo, I've gained a comprehensive understanding of both hardware and software aspects of computing. I've delved into subjects like digital logic design, computer architecture, algorithms, data structures, and operating systems, equipping me with the knowledge to analyze and design complex systems."
       }
     ],
     "work":[
+      {
+        "company":"Guardup NG",
+        "title":"Snr Backend Developer",
+        "years":"July 2024 - November 2024",
+        "description":"As a Backend Developer at GuardUp, a leading Nigerian security company, I developed and maintained secure, scalable web applications using Laravel. I collaborated with teams to deliver user-friendly solutions, managed databases, integrated APIs, and optimized performance. My work enhanced GuardUp’s digital infrastructure, supporting its mission to provide innovative security services."
+      },
       {
         "company":"PFM.Company",
         "title":"Full-Stack Developer",
@@ -67,10 +73,33 @@
     ],
     "skills":[
       {
+        "name": "AWS",
+        "level": "100%"
+      },
+      {
+        "name": "Azure",
+        "level": "100%"
+      },
+      {
+        "name": "Google Cloud Platform (GCP)",
+        "level": "100%"
+      },
+      {
+        "name": "System Design & Implementation",
+        "level": "100"
+      },
+      {
+        "name":"PHP/Laravel",
+        "level":"100%"
+      },
+      {
+        "name":"NodeJS/Express",
+        "level":"100%"
+      },
+      {
         "name":"Python",
         "level":"60%"
       },
-
       {
         "name":"ReactJs",
         "level":"80%"
@@ -90,19 +119,17 @@
       {
         "name":"Javascript",
         "level":"90%"
-      },
-      {
-        "name":"Laravel",
-        "level":"90%"
-      },
-      {
-        "name":"NodeJS/Express",
-        "level":"70%"
       }
     ]
   },
   "portfolio":{
     "projects": [
+      {
+        "title":"GuardUp NG",
+        "category":"Security",
+        "image":"09.png",
+        "url":"https://guardup.ng"
+      },
       {
         "title":"PFM.Company",
         "category":"Agency",
@@ -132,13 +159,6 @@
         "category":"ECommerce",
         "image":"03.png",
         "url":"https://fmtstore.rf.gd"
-      },
-
-      {
-        "title":"Kenzy Gallery",
-        "category":"Images",
-        "image":"07.png",
-        "url":"https://kenzy.netlify.app"
       },
       {
         "title":"Gallery",
