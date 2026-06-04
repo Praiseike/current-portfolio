@@ -53,12 +53,6 @@
         "description":"As a Backend Developer at GuardUp, a leading Nigerian security company, I developed and maintained secure, scalable web applications using Laravel. I collaborated with teams to deliver user-friendly solutions, managed databases, integrated APIs, and optimized performance. My work enhanced GuardUp’s digital infrastructure, supporting its mission to provide innovative security services."
       },
       {
-        "company":"PFM.Company",
-        "title":"Full-Stack Developer",
-        "years":"November 2023 - January 2024",
-        "description":"At PFM.Company, I seamlessly integrated Bootstrap with Laravel to develop visually appealing and responsive web applications. Leveraging Bootstrap's extensive front-end components, I crafted intuitive user interfaces that provided an exceptional user experience across various devices. Working within the Laravel framework, I implemented robust backend functionalities, ensuring the seamless flow of data and interactions. My responsibilities included designing and developing features, handling data validation, and optimizing performance for optimal user engagement."
-      },
-      {
         "company":"SOFROSYN LLC",
         "title":"Front-End Developer",
         "years":"September 2023 - Januaray 2024",
@@ -129,12 +123,6 @@
         "category":"Security",
         "image":"09.png",
         "url":"https://guardup.ng"
-      },
-      {
-        "title":"PFM.Company",
-        "category":"Agency",
-        "image":"06.png",
-        "url":"https://privatefanmanagementcompany.com"
       },
       {
         "title":"Gym Project",
